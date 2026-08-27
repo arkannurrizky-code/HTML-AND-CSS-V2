@@ -1,0 +1,49 @@
+.blok{
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(34, 58, 152);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(5, 22, 150);
+}
+a{
+    width: 100px;
+    height: 100px;
+    
+}
+
+#judul{
+    color:rgb(243, 245, 248);
+    text-align: center;
+    height: 50px;
+    height: 50px;
+}
+
+.tab{
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #334155;
+        
+}
+
+.mboh{
+     width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(34, 58, 152);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(5, 22, 150);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ body{
+    background-color: #ffffff;
+    color: white;
+    padding: 30px; 
+}
